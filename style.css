@@ -1,0 +1,64 @@
+body {
+  background-color: #EEEEEE;
+  color: black;
+  font-family: sans-serif;
+  text-align: justify;
+}
+
+h1 {
+  color: rgb(3, 3, 3);
+  font-size: 200%;
+  text-align: center;
+}
+
+.container {
+  padding-top: 50px;
+  padding-right: 100px;
+  padding-left: 100px;
+}
+
+.center {
+  text-align: center;
+}
+
+img {
+  width: 150px;
+  height: 160px;
+}
+
+h2 {
+  background-color: black;
+  color: white;
+  font-size: 150%;
+  text-transform: capitalize;
+}
+
+h3 {
+  background-color: #AAAAAA;
+  color: DarkMagenta;
+  font-size: 130%;
+}
+
+p {
+  background-color: #CCCCCC;
+  line-height: 150%;
+}
+
+footer address {
+  background-color: orange;
+  font-style: normal;
+  text-align: right;
+}
+
+em {
+  color: blue;
+  font-style: normal;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+strong {
+  color: green;
+  font-style: normal;
+  font-weight: normal;
+}
